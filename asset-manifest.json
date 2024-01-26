@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ai/static/css/main.3b758419.css",
+    "main.js": "/ai/static/js/main.378e5441.js",
+    "static/js/787.342c20df.chunk.js": "/ai/static/js/787.342c20df.chunk.js",
+    "static/media/Gvt_2.mp4": "/ai/static/media/Gvt_2.039b74bd2333938414d5.mp4",
+    "static/media/Inter-Bold.ttf": "/ai/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/logo4k.png": "/ai/static/media/logo4k.e3b45cb364547855cbd5.png",
+    "static/media/Jura-Light.ttf": "/ai/static/media/Jura-Light.86dd6b65616c8985720c.ttf",
+    "static/media/logo.svg": "/ai/static/media/logo.7085d82abd93c13c0bc40c7718e9321e.svg",
+    "static/media/globe.svg": "/ai/static/media/globe.8f29f85f08b3239973a34abe9caf92ce.svg",
+    "static/media/RussoOne-Regular.ttf": "/ai/static/media/RussoOne-Regular.b2f5b287ccb8fd446eae.ttf",
+    "static/media/Virus.svg": "/ai/static/media/Virus.8e2f5f2bb9ae59633ff1c834fc6d4e3e.svg",
+    "static/media/google-log.svg": "/ai/static/media/google-log.e835cd7c439a0192a883c94c7c1a54ab.svg",
+    "static/media/topt.svg": "/ai/static/media/topt.9aa13fb000c3cb40ececda16eb2e04e9.svg",
+    "static/media/gico.svg": "/ai/static/media/gico.9078f910971fa880529502b678bae310.svg",
+    "static/media/apple.svg": "/ai/static/media/apple.359758e58756d20082a2ccb41db536cc.svg",
+    "static/media/wallethome.svg": "/ai/static/media/wallethome.15a5d27f0935fa7c35070dcdb4ef476e.svg",
+    "static/media/lets.svg": "/ai/static/media/lets.ff6fd5164b3a03696828fc3f4102bf4c.svg",
+    "static/media/phone.svg": "/ai/static/media/phone.5d70837ddb6b0bbc0d23e4c93c2adf2d.svg",
+    "static/media/loading.svg": "/ai/static/media/loading.650936a29ddee3e79919d101a2d76766.svg",
+    "index.html": "/ai/index.html",
+    "static/media/spline.svg": "/ai/static/media/spline.a91b13e9a98693a3f485886b84556c15.svg",
+    "main.3b758419.css.map": "/ai/static/css/main.3b758419.css.map",
+    "main.378e5441.js.map": "/ai/static/js/main.378e5441.js.map",
+    "787.342c20df.chunk.js.map": "/ai/static/js/787.342c20df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b758419.css",
+    "static/js/main.378e5441.js"
+  ]
+}
